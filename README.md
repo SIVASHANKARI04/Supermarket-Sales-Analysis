@@ -1,5 +1,4 @@
-🛒 Supermarket Sales Analysis
-
+**🛒 Supermarket Sales Analysis**
 
 This project analyzes sales data from a supermarket chain to uncover valuable business insights. 
 
@@ -7,7 +6,7 @@ Using Python and data visualization tools, it provides a detailed understanding 
 
 product performance, and sales trends across various branches.
 
-🔍 Objective
+**🔍 Objective**
 
 
 To perform exploratory data analysis (EDA) on supermarket sales data to help stakeholders
