@@ -13,13 +13,13 @@ To perform exploratory data analysis (EDA) on supermarket sales data to help sta
 
 make informed decisions based on patterns in sales, customer preferences, and operational efficiency.
 
-📊 Key Features
+**📊 Key Features**
 
 Cleaned and preprocessed sales data for accuracy.
 
 Visualized key metrics using seaborn and matplotlib.
 
-Analyzed:
+**Analyzed:**
 
 
 Sales by branch, gender, payment method, and product line.
