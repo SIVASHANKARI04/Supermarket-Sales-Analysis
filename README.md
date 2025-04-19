@@ -6,8 +6,8 @@ Using Python and data visualization tools, it provides a detailed understanding 
 
 product performance, and sales trends across various branches.
 
-**🔍 Objective**
 
+**🔍 Objective**
 
 To perform exploratory data analysis (EDA) on supermarket sales data to help stakeholders
 
@@ -19,8 +19,8 @@ Cleaned and preprocessed sales data for accuracy.
 
 Visualized key metrics using seaborn and matplotlib.
 
-**Analyzed:**
 
+**Analyzed:**
 
 Sales by branch, gender, payment method, and product line.
 
@@ -28,7 +28,9 @@ Customer ratings and purchase behavior.
 
 Trends in gross income and tax.
 
-🛠️ Tools & Technologies
+
+**🛠️ Tools & Technologies**
+
 Python
 
 Pandas, NumPy – for data manipulation
@@ -37,7 +39,8 @@ Matplotlib, Seaborn – for visualization
 
 Jupyter Notebook
 
-📌 Insights
+
+**📌 Insights**
 
 Certain branches and product lines consistently outperform others.
 
