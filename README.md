@@ -27,3 +27,12 @@ Sales by branch, gender, payment method, and product line.
 Customer ratings and purchase behavior.
 
 Trends in gross income and tax.
+
+🛠️ Tools & Technologies
+Python
+
+Pandas, NumPy – for data manipulation
+
+Matplotlib, Seaborn – for visualization
+
+Jupyter Notebook
