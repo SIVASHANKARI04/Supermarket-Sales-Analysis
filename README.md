@@ -36,3 +36,13 @@ Pandas, NumPy – for data manipulation
 Matplotlib, Seaborn – for visualization
 
 Jupyter Notebook
+
+📌 Insights
+
+Certain branches and product lines consistently outperform others.
+
+Female customers slightly outspent male customers.
+
+Electronic accessories and food/beverages showed high gross income.
+
+E-wallets and cash were the most preferred payment modes.
